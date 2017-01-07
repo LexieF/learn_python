@@ -27,7 +27,7 @@ class TestNumeroPar(unittest.TestCase):
         self.numero = None
 
     def teste_cinquenta(self):
-        self.assertEquals(True, self.numero.verificar(50))
+        self.assertEquals(True, self.numero.verificar(151))
 
     def teste_zero(self):
         self.assertEquals('Nulo', self.numero.verificar(0))
