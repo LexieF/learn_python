@@ -6,7 +6,7 @@ import doctest
 '''
 Calculo do fibonacci
 >>>f.fib(5)
-5
+55
 >>>f.fib(10)
 55
 '''
